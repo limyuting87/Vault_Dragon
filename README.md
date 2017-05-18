@@ -1,4 +1,10 @@
-# Vault_Dragon
+DISCLAIMER :
+I do not own and IDE, all the code written here is written using Notepad++ (might contain minor syntax errors)
+
+The code is written in Java
+
+============================================================================================
+
 Vault_Dragon REST API Quiz - Coding Test Requirement
 
 Build a version controlled key-value store with a HTTP API we can query that from. The API needs to be able to:
